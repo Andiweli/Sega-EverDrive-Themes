@@ -23,7 +23,7 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ![Preview of "All-Stars animated" theme](/previews/all-stars-animated.png)
 
-An **animated wallpaper** with a **Sonic** look.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-animated.bgr) - **animated wallpaper** with a **Sonic** look.
 
 - Style: animated wallpaper  
 - File: `all-stars-animated.bgr`  
@@ -33,7 +33,7 @@ An **animated wallpaper** with a **Sonic** look.
 
 ![Preview of "All-Stars fixed" theme](/previews/all-stars-fixed.png)
 
-A **fixed wallpaper** with a **clean Sega heroes** look.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-fixed.bgr) - **fixed wallpaper** with a **clean Sega heroes** look.
 
 - Style: fixed wallpaper  
 - File: `all-stars-fixed.bgr`  
@@ -48,7 +48,7 @@ A **fixed wallpaper** with a **clean Sega heroes** look.
 
 ![Preview of "Console" theme](/previews/console.png)
 
-A **single-frame wallpaper** with a **Mega Drive console / background** look.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/console.bgr) - **single-frame wallpaper** with a **Mega Drive console / background** look.
 
 - Style: static wallpaper  
 - File: `console.bgr`  
@@ -65,7 +65,7 @@ Clean, console-themed look for people who prefer a **simple, non-animated** menu
 
 ![Preview of animated "Nightline" theme](/previews/nightline.png)
 
-An **animated night skyline** with moving water in the foreground.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/nightline.bgr) - **animated night skyline** with moving water in the foreground.
 
 - Style: animated background  
 - Layers: **7 animation layers** for water and lights  
@@ -79,7 +79,7 @@ Gives the EverDrive Pro menu a **city-at-night** vibe with subtle motion.
 
 ![Preview of animated "Jim Power" theme](/previews/jimpower.png)
 
-Animated wallpaper based on the **Jim Power** title screen.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/jimpower.bgr) - **animated wallpaper** based on the **Jim Power** title screen.
 
 - Style: animated background  
 - Source: mixed elements from the **Genesis/Mega Drive** and **Amiga** versions  
@@ -93,7 +93,7 @@ Because of limited original assets, this theme is a **hybrid** between the two v
 
 ![Preview of animated "Beast" theme](/previews/beast.png)
 
-Animated wallpaper based on the **Shadow of the Beast** plains.
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/beast.bgr) - **animated wallpaper** based on the **Shadow of the Beast** plains.
 
 - Style: animated background  
 - Atmosphere: distant plains / fantasy landscape  
