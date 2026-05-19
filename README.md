@@ -17,7 +17,7 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ---
 
-## 🎨 New Themes
+## 🎨 NEW Themes
 
 ### Theme: “Sonic Floating Island (animated)”
 
@@ -52,7 +52,7 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ---
 
-## 🎨 NEW Themes
+## 🎨 Old Themes
 
 ### Theme: “Console”
 
