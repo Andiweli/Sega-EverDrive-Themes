@@ -19,9 +19,19 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ## 🎨 New Themes
 
+### Theme: “Sonic Floating Island (animated)”
+
+![Preview of "Sonic Floating Island animated" theme](/previews/sonic-floating-island_preview.gif)
+
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/sonic-floating-island.bgr) - **animated wallpaper** with a **Sonic** look.
+
+- Style: animated wallpaper  
+- File: `sonic-floating-island.bgr`  
+- System: Mega EverDrive Pro (Mega Drive / Genesis)
+
 ### Theme: “All-Stars (animated)”
 
-![Preview of "All-Stars animated" theme](/previews/all-stars-animated.png)
+![Preview of "All-Stars animated" theme](/previews/genesis-allstars_preview.gif)
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-animated.bgr) - **animated wallpaper** with a **Sonic** look.
 
@@ -31,7 +41,7 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ### Theme: “All-Stars (fixed)”
 
-![Preview of "All-Stars fixed" theme](/previews/all-stars-fixed.png)
+![Preview of "All-Stars fixed" theme](/previews/genesis-allstars-fixed_preview.gif)
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-fixed.bgr) - **fixed wallpaper** with a **clean Sega heroes** look.
 
