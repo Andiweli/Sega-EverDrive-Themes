@@ -17,7 +17,32 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 
 ---
 
-## 🎨 Included Themes
+## 🎨 New Themes
+
+### Theme: “All-Stars (animated)”
+
+![Preview of "All-Stars animated" theme](/previews/all-stars-animated.png)
+
+An **animated wallpaper** with a **Sonic** look.
+
+- Style: animated wallpaper  
+- File: `all-stars-animated.bgr`  
+- System: Mega EverDrive Pro (Mega Drive / Genesis)
+
+### Theme: “All-Stars (fixed)”
+
+![Preview of "All-Stars fixed" theme](/previews/all-stars-fixed.png)
+
+A **fixed wallpaper** with a **clean Sega heroes** look.
+
+- Style: fixed wallpaper  
+- File: `all-stars-fixed.bgr`  
+- System: Mega EverDrive Pro (Mega Drive / Genesis)
+
+
+---
+
+## 🎨 NEW Themes
 
 ### Theme: “Console”
 
@@ -33,6 +58,8 @@ Typical use case:
 Clean, console-themed look for people who prefer a **simple, non-animated** menu.
 
 ---
+
+## 🎨 OLD Themes
 
 ### Theme: “Nightline”
 
@@ -73,22 +100,6 @@ Animated wallpaper based on the **Shadow of the Beast** plains.
 - File: `beast.bgr`  
 
 Designed to give the EverDrive Pro menu a more **cinematic, 16-bit fantasy** feel.
-
----
-
-## 📥 Download
-
-You can download the themes in several ways:
-
-- **From GitHub releases** (if available)  
-- Or directly from the repo:
-
-  - `console.bgr`  
-  - `nightline.bgr`  
-  - `jimpower.bgr`  
-  - `beast.bgr`  
-
-Right-click → *Save link as…* (or use the **Download raw file** button on GitHub).
 
 ---
 
