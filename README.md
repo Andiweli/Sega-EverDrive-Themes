@@ -19,6 +19,20 @@ Just copy the `.bgr` file(s) to your SD card *(system folder)* and set them as t
 
 # 🎨 Themes
 
+## Theme: “Outrun Scenery (animated)”
+
+<p>
+  <img src="/previews/outrun_scenery_preview.gif" alt="Preview of a Car in front of the sea" width="640">
+</p>
+
+[DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/outrun_scenery.bgr) - **animated wallpaper** with a **Outrun** look.
+
+- Style: animated wallpaper  
+- File: `outrun_scenery.bgr`  
+- System: Mega EverDrive Pro (Mega Drive / Genesis)
+
+---
+
 ## Theme: “Sonic Floating Island (animated)”
 
 <p>
