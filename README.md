@@ -1,27 +1,29 @@
-# Sega EverDrive Themes <br/> Custom themes for Krikzz’s **Mega EverDrive Pro**
+# Sega EverDrive Themes
+**Custom themes for Krikzz’s Mega EverDrive Pro**
 
 > A small collection of custom **menu themes** for the **Mega EverDrive Pro** flash cartridge  
 > (Sega Mega Drive / Genesis), in **.BGR** theme format.
 
-[![Repo](https://img.shields.io/badge/github-andiweli%2FSega--EverDrive--Themes-blue)](https://github.com/andiweli/Sega-EverDrive-Themes)
 [![Platform](https://img.shields.io/badge/platform-Mega%20Drive%20%2F%20Genesis%20%2B%20Mega%20EverDrive%20Pro-green)](https://krikzz.com)
 [![Type](https://img.shields.io/badge/type-menu%20themes%20(.bgr)-brightgreen)](#)
 
 This repository contains **custom themes for Krikzz’s Mega EverDrive Pro**:
 
 - Static and animated **EverDrive Pro menu wallpapers**
-- Designed for **Sega Mega Drive / Genesis** hardware
+- Designed for **Sega Mega Drive / Genesis EverDrive** hardware
 - Supplied as ready-to-use **`.bgr` theme files**
 
-Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega EverDrive Pro menu.
+Just copy the `.bgr` file(s) to your SD card *(system folder)* and set them as theme in the Mega EverDrive Pro menu.
 
 ---
 
-## 🎨 NEW Themes
+# 🎨 Themes
 
-### Theme: “Sonic Floating Island (animated)”
+## Theme: “Sonic Floating Island (animated)”
 
-![Preview of "Sonic Floating Island animated" theme](/previews/sonic-floating-island_preview.gif)
+<p>
+  <img src="/previews/sonic-floating-island_preview.gif" alt="Preview of Sonic Floating Island animated theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/sonic-floating-island.bgr) - **animated wallpaper** with a **Sonic** look.
 
@@ -29,9 +31,13 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 - File: `sonic-floating-island.bgr`  
 - System: Mega EverDrive Pro (Mega Drive / Genesis)
 
-### Theme: “All-Stars (animated)”
+---
 
-![Preview of "All-Stars animated" theme](/previews/genesis-allstars_preview.gif)
+## Theme: “All-Stars (animated)”
+
+<p>
+  <img src="/previews/genesis-allstars_preview.gif" alt="Preview of All-Stars animated theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-animated.bgr) - **animated wallpaper** with a **Sonic** look.
 
@@ -39,9 +45,13 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 - File: `all-stars-animated.bgr`  
 - System: Mega EverDrive Pro (Mega Drive / Genesis)
 
-### Theme: “All-Stars (fixed)”
+---
 
-![Preview of "All-Stars fixed" theme](/previews/genesis-allstars-fixed_preview.gif)
+## Theme: “All-Stars (fixed)”
+
+<p>
+  <img src="/previews/genesis-allstars-fixed_preview.gif" alt="Preview of All-Stars fixed theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/all-stars-fixed.bgr) - **fixed wallpaper** with a **clean Sega heroes** look.
 
@@ -49,14 +59,15 @@ Just copy the `.bgr` file(s) to your SD card and set them as theme in the Mega E
 - File: `all-stars-fixed.bgr`  
 - System: Mega EverDrive Pro (Mega Drive / Genesis)
 
-
 ---
 
-## 🎨 Old Themes
+## Old Themes
 
 ### Theme: “Console”
 
-![Preview of "Console" theme](/previews/console.png)
+<p>
+  <img src="/previews/console.png" alt="Preview of Console theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/console.bgr) - **single-frame wallpaper** with a **Mega Drive console / background** look.
 
@@ -69,17 +80,17 @@ Clean, console-themed look for people who prefer a **simple, non-animated** menu
 
 ---
 
-## 🎨 OLD Themes
-
 ### Theme: “Nightline”
 
-![Preview of animated "Nightline" theme](/previews/nightline.png)
+<p>
+  <img src="/previews/nightline.png" alt="Preview of animated Nightline theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/nightline.bgr) - **animated night skyline** with moving water in the foreground.
 
 - Style: animated background  
 - Layers: **7 animation layers** for water and lights  
-- File: `nightline.bgr`  
+- File: `nightline.bgr`
 
 Gives the EverDrive Pro menu a **city-at-night** vibe with subtle motion.
 
@@ -87,13 +98,15 @@ Gives the EverDrive Pro menu a **city-at-night** vibe with subtle motion.
 
 ### Theme: “Jim Power”
 
-![Preview of animated "Jim Power" theme](/previews/jimpower.png)
+<p>
+  <img src="/previews/jimpower.png" alt="Preview of animated Jim Power theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/jimpower.bgr) - **animated wallpaper** based on the **Jim Power** title screen.
 
 - Style: animated background  
 - Source: mixed elements from the **Genesis/Mega Drive** and **Amiga** versions  
-- File: `jimpower.bgr`  
+- File: `jimpower.bgr`
 
 Because of limited original assets, this theme is a **hybrid** between the two versions.
 
@@ -101,13 +114,15 @@ Because of limited original assets, this theme is a **hybrid** between the two v
 
 ### Theme: “Shadow of the Beast”
 
-![Preview of animated "Beast" theme](/previews/beast.png)
+<p>
+  <img src="/previews/beast.png" alt="Preview of animated Beast theme" width="640">
+</p>
 
 [DOWNLOAD](https://github.com/Andiweli/Sega-EverDrive-Themes/blob/main/beast.bgr) - **animated wallpaper** based on the **Shadow of the Beast** plains.
 
 - Style: animated background  
 - Atmosphere: distant plains / fantasy landscape  
-- File: `beast.bgr`  
+- File: `beast.bgr`
 
 Designed to give the EverDrive Pro menu a more **cinematic, 16-bit fantasy** feel.
 
