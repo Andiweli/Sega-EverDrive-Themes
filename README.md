@@ -6,6 +6,8 @@
 
 [![Platform](https://img.shields.io/badge/platform-Mega%20Drive%20%2F%20Genesis%20%2B%20Mega%20EverDrive%20Pro-green)](https://krikzz.com)
 [![Type](https://img.shields.io/badge/type-menu%20themes%20(.bgr)-brightgreen)](#)
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
+
 
 This repository contains **custom themes for Krikzz’s Mega EverDrive Pro**:
 
@@ -178,6 +180,18 @@ The Mega EverDrive Pro supports **custom menu themes** in a special **`.bgr` for
 - Allows static images, horizontal / vertical scrolling and more (depending on theme design)
 
 All themes in this repo are already compiled as `.bgr` and **ready to use**.
+
+---
+
+## ❤️ Support
+
+If you enjoy this project and would like to support my work, you can make a small contribution via PayPal.
+
+Your support helps me spend more time maintaining existing projects, fixing bugs, improving compatibility, and working on new features.
+
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
+
+Thank you for your support!
 
 ---
 
